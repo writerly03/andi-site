@@ -1,0 +1,164 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+body {
+    font-family: 'Crimson Text', 'Georgia', 'Times New Roman', serif;
+    color: #333;
+    background-color: #fff;
+    min-height: 100vh;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 2rem 1rem;
+}
+
+/* Container for left-aligned content */
+.container {
+    max-width: 650px;
+    width: 100%;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    min-height: 100vh;
+    padding: 2rem 0;
+}
+
+/* Header styles */
+.header {
+    margin-bottom: 3rem;
+}
+
+.name {
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+}
+
+.tagline {
+    font-size: clamp(1.1rem, 2.5vw, 1.3rem);
+    color: #666;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+/* Content section */
+.content {
+    margin-bottom: 4rem;
+    text-align: left;
+    line-height: 1.7;
+}
+
+.content p {
+    font-size: 1.1rem;
+    color: #444;
+    margin-bottom: 1.5rem;
+    max-width: none;
+}
+
+.content p:last-child {
+    margin-bottom: 0;
+}
+
+/* Footer and social links */
+.footer {
+    margin-top: auto;
+    padding-top: 2rem;
+}
+
+.social-links {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+    flex-wrap: wrap;
+}
+
+.social-link {
+    color: #666;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    transition: all 0.2s ease;
+    position: relative;
+}
+
+.social-link:hover {
+    color: #1a1a1a;
+    background-color: #f5f5f5;
+    transform: translateY(-1px);
+}
+
+.social-link:focus {
+    outline: 2px solid #007acc;
+    outline-offset: 2px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    body {
+        padding: 1rem 0.5rem;
+    }
+    
+    .container {
+        padding: 1rem 0;
+    }
+    
+    .header {
+        margin-bottom: 2rem;
+    }
+    
+    .content {
+        margin-bottom: 3rem;
+    }
+    
+    .content p {
+        font-size: 1rem;
+    }
+    
+    .social-links {
+        gap: 1.5rem;
+    }
+    
+    .social-link {
+        font-size: 0.9rem;
+        padding: 0.4rem 0.8rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .social-links {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+    
+    .social-link {
+        display: inline-block;
+        min-width: 120px;
+    }
+}
+
+/* Print styles */
+@media print {
+    body {
+        background: white;
+        color: black;
+    }
+    
+    .social-links {
+        display: none;
+    }
+}
