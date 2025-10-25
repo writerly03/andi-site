@@ -1,8 +1,8 @@
 ---
 layout: layout.njk
-title: "Your Name - Personal Website"
-description: "Personal website showcasing my work and interests"
-author: "Your Name"
+title: "andi portfolio site" 
+description: "found objects from around the internet"
+author: "andi argast"
 ---
 
 <header class="header">
@@ -16,14 +16,14 @@ author: "Your Name"
 
 <footer class="footer">
     <nav class="social-links">
-        <a href="https://github.com/yourusername" class="social-link" aria-label="GitHub">
+        <a href="https://github.com/writerly03" class="social-link" aria-label="GitHub">
             <span>GitHub</span>
         </a>
-        <a href="https://linkedin.com/in/yourusername" class="social-link" aria-label="LinkedIn">
+        <a href="https://linkedin.com/in/andiargast" class="social-link" aria-label="LinkedIn">
             <span>LinkedIn</span>
         </a>
-        <a href="https://twitter.com/yourusername" class="social-link" aria-label="Twitter">
-            <span>BlueSky</span>
+        <a href="https://bsky.app/profile/andia.bsky.social" class="social-link" aria-label="Bluesky">
+            <span>Bluesky</span>
         </a>
         <a href="mailto:your.email@example.com" class="social-link" aria-label="Email">
             <span>Email</span>
