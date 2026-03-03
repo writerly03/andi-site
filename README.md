@@ -100,4 +100,4 @@ This website works in all modern browsers including:
 - Chrome (latest)
 - Firefox (latest)
 - Safari (latest)
-- Edge (latest)
+- Edge (latest)  
