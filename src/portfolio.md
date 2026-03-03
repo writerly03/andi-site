@@ -37,7 +37,7 @@ author: "andi argast"
 
 <footer class="footer">
     <nav class="social-links">
-        <a href="/" class="social-link" aria-label="Home">Home</a>
+        <a href="{{ '/' | url }}" class="social-link" aria-label="Home">Home</a>
         <a href="https://linkedin.com/in/andiargast" class="social-link" aria-label="LinkedIn">LinkedIn</a>
         <a href="https://bsky.app/profile/andia.bsky.social" class="social-link" aria-label="Bluesky">Bluesky</a>
         <a href="https://github.com/writerly03" class="social-link" aria-label="GitHub">GitHub</a>
