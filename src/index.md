@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: "andi's venn" 
-description: "found objects from around the internet"
+description: "a portoflio of sorts"
 author: "andi argast"
 ---
 
