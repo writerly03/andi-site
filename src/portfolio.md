@@ -38,8 +38,6 @@ Canadian Internet Registration Authority (CIRA). *Digital Capacity in Canada’s
 “Your Story Goes Here.” Citizens in Planning, 2013–2015. [https://www.citizensinplanning.com/](https://www.citizensinplanning.com/).
 
 ---
-
-**Would you like me to sort these alphabetically by title instead of by date?**
       </ul>
     </section>
 
