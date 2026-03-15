@@ -32,6 +32,7 @@ Girl Guides of Canada. *International Day of the Girl: IRL Matters*. Report. Tor
 
 **2015**
 Canadian Internet Registration Authority (CIRA). *Digital Capacity in Canada’s Not-for-Profit Sector*. Report. Ottawa: CIRA, 2015. [https://www.cira.ca/en/resources/documents/state-of-internet/digital-capacity-canadas-not-profit-sector/](https://www.cira.ca/en/resources/documents/state-of-internet/digital-capacity-canadas-not-profit-sector/).
+
 “Your Story Goes Here: A Case Study Investigating Digital Storytelling and City Building.” *Civic Media Project*. MIT Press, March 1, 2015. [https://web.archive.org/web/20170924023640/http://civicmediaproject.org/works/civic-media-project/your-story-goes-here](https://web.archive.org/web/20170924023640/http://civicmediaproject.org/works/civic-media-project/your-story-goes-here).
 
 **2013**
@@ -46,7 +47,7 @@ Canadian Internet Registration Authority (CIRA). *Digital Capacity in Canada’s
       <p>Talks, trainings, and workshops facilitated or co-created.</p>
       <ul class="portfolio-list">
        **2025**
-“2025 Platform Cooperative Conference.” Presentation at the Platform Cooperative Conference, February 4, 2025. [https://platform.coop/people/andi-argast/](https://platform.coop/people/andi-argast/).
+      “Workshop and Lightening Talk at 'Cooperative AI;' Platform Cooperative Conference, November 2025. [https://platform.coop/people/andi-argast/](https://platform.coop/people/andi-argast/).
       </ul>
     </section>
 
